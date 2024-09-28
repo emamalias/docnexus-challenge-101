@@ -1,7 +1,7 @@
 # docnexus-challenge-101
 Search engine for medical conferences.
 
-### The challenge
+## The challenge
 Extract data from different sources for medical conferences.
 Build a system to extract and index data from hundreds of thousands of medical conferences, including websites, PDFs, and session details.
 
@@ -13,7 +13,7 @@ It would then need to search and find the sites and scrape the conference websit
 
 Goal is to build a fast, intuitive search engine allowing users to filter by session, speaker, year and topic across conferences. Design a system that can manage and update data from a massive, constantly growing dataset.
 
-### Stacks (open source)
+## Stacks (open source)
 - **Back-end**: Laravel
 - **Front-end**: NextJS
 - **Database**: PostgreSQL
@@ -21,7 +21,7 @@ Goal is to build a fast, intuitive search engine allowing users to filter by ses
 - **Crawling/Scraping**: Puppeter
 - **Data Parsing**: Unstract
 
-### The design solution
+## The design solution
 
 1. Data Collection Pipeline
    - Website Crawling & Scraping:
